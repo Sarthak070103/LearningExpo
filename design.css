@@ -1796,7 +1796,17 @@ padding-left: 30px;
    }
 /*mobile*/
    @media (max-width:420px) {
-    
+    #confooter .social  ul {
+    position: absolute;
+    top: 137%;
+    left: 50%;
+    background-color: rgb(51, 49, 49);
+    transform: translate(-50%, -50%);
+    margin: 0px;
+    padding-bottom: 20px;
+    border-radius: 200px;
+    display: flex;
+}
     #blogcont .blogs{
         position: relative;
         top: 100px;
