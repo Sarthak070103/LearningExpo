@@ -1905,19 +1905,16 @@ padding-left: 30px;
         background-color: rgb(51, 49, 49) ;
       }
       
-      #blogfooter .social  ul {
-        position:absolute;
-        top:347%;
-        left:50%;
-
-        background-color: rgb(51, 49, 49);
-        transform: translate(-50%, -50%);
-        margin:0px;
-        padding-bottom: 20px;
-
-        display:flex;
-      }
-      
+    #blogfooter .social  ul {
+    position: absolute;
+    top: 324%;
+    left: 50%;
+    background-color: rgb(51, 49, 49);
+    transform: translate(-50%, -50%);
+    margin: 0px;
+    padding-bottom: 20px;
+    display: flex;
+}  
       #blogfooter .social ul li {
         list-style: none;
       }
